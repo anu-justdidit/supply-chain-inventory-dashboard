@@ -18,3 +18,8 @@ A real-time Power BI dashboard was developed to track inventory levels, product 
 
 ## Results & Business Impact
 Enabled proactive inventory management, leading to a **15% reduction in stockouts**.
+
+
+
+
+I built a Power BI dashboard that tracks inventory turnover in real time. The measure Inventory Turnover = Units Sold / Average Inventory updates instantly. When turnover fell below a threshold, products were flagged as ‘slow movers’. The supply chain team used this to cut orders and run promotions, which freed up storage and reduced stockouts from 12% to 10.2% – a 15% reduction.
